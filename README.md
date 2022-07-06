@@ -6,6 +6,9 @@ Tôi đã tạo 5 video dự án DevOps này để bạn học hỏi. Tôi đã 
 
 2.) Triển khai ứng dụng Java với Docker và Kubernetes: https://youtu.be/0GgBi8yNQT4
 
+- Github link : https://github.com/shazforiot/docker-Java-kubernetes-project
+
+
 3.) Triển khai ứng dụng Node.js trong Kubernetes: https://youtu.be/CfPRbdT-wXo
 
 4.) Triển khai liên tục ứng dụng Node JS với GitLab CI: https://youtu.be/j1cj5oK8t6c
